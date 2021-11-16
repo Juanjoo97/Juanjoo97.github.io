@@ -1,0 +1,100 @@
+   *{font-family: cambria;}
+body {
+  display: block;
+  background-color: black;
+  margin: 40px;
+  padding: 2px;
+}
+#fondo{
+  display: block;
+  background-color: white;
+  margin: 40px;
+  padding: 2px;
+}
+#linea{
+  background-color: white;
+  border: 2px solid black;
+  margin: 40px;
+  padding: 2px;
+}
+#plantilla {
+    border: solid thick black;
+    padding: 80px;
+    background-color:white;
+    margin: 2px;
+}
+
+h1 {
+  display: block;
+  margin-block-start: 0px;
+  margin-block-end: 10px;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  color: black;
+  font-size: 200%;
+  text-align: center;
+}
+h2 {
+  display: block;
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  color: black;
+  font-size: 200%;
+  text-align: center;
+}
+h3 {
+  font-size: 120%;
+  text-align: justify;
+}
+p {
+  font-size: 120%;
+  text-align: justify;
+}
+
+img.resize {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  width: 200px;
+}
+
+scroll{
+width: 1000px;
+border: 5px solid #ddd
+}
+
+li{
+    font-size: 120%;
+    text-align: justify;
+    font-weight: bold;
+}
+dt{
+    font-size: 120%;
+    text-align: justify;
+    padding-left: 25px;
+}
+
+img.firma{
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  width: 200px;
+}
+
+.firma{
+    font-size: 120%;
+    text-align: center;
+}
+.firma1{
+    display: block;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: 120%;
+    text-align: center;
+}
