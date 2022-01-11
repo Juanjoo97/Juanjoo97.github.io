@@ -1,7 +1,6 @@
 # Juanjoo97.github.io
-Project website
--JS Web APIs 
-  -Web Storage API
+## Project website
+JS Web APIs: Web Storage API
 
 Domain hosting:
 ```
